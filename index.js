@@ -86,7 +86,7 @@ const supermarketItems = [
 const names = [
   'åAnna', 'Anna', 'Brittany', 'Cinderella', 'Diana', 'Eva', 'Fiona', 'Gunda',
   'Hege', 'Inga', 'Johanna', 'Kitty', 'Linda', 'Ophelia', 'Petunia', 'Amanda',
-  'Raquel', 'Cindy', 'Doris', 'Eve', 'Evita', 'Ståle', 'Sunniva', 'Tove',
+  'Raquel', 'Cindy', 'Doris', 'Eve', 'Evita', ,'Dhanush', 'Pagoti','Ståle', 'Sunniva', 'Tove',
   'Unni', 'Violet', 'Liza', 'Elizabeth', 'Ellen', 'Wenche', 'Vicky'
 ];
 
